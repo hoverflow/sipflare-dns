@@ -1,0 +1,8 @@
+{
+	"production": false,
+	"user": "postgres_user",
+	"host": "postgres_host",
+	"database": "postgres_db",
+	"password": "postgres_password",
+	"port": 5432
+}

@@ -1,0 +1,24 @@
+{
+  "name": "sipflare-dns",
+  "version": "0.1.0",
+  "description": "SipFlare-DNS is a realtime DNS designed to work with SipFlare-proxy to offer realtime/ondemand DNS resolution",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github:hoverflow/sipflare-dns.git"
+  },
+  "keywords": [
+    "sipflare",
+    "DNS",
+    "proxy"
+  ],
+  "author": "Jonathan Stevano aka hoverflow",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "native-dns": "^0.7.0",
+    "pg": "^7.5.0"
+  }
+}
